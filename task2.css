@@ -1,0 +1,19 @@
+#header{
+    background-color: #696969;
+  }
+  #content{
+    background-color: red;
+  }
+  #sidebar{
+    background-color: #f0d2e6;
+  }
+  #sidebar2{
+    background-color: green;
+  }
+  #footer{
+    background-color: yellow;
+  }
+  #content
+  {
+    clear:both;
+  }
